@@ -156,6 +156,7 @@ var cnames_active = {
   "azdanov": "azdanov.netlify.com", //noCF
   "aziz": "iAziz786.github.io/aziz.js.org",
   "bara": "barajs.github.io/bara",
+  "babylon": "babylonjs.netlify.com",
   "bachors": "bachors.github.io",
   "backlog": "backlog-js.github.io/backlog.js.org", // noCF? (don´t add this in a new PR)
   "backstage": "backstagejs.github.io/backstage",
@@ -261,6 +262,7 @@ var cnames_active = {
   "cassie": "milesgitgud.github.io/cassie",
   "cats": "whoisjorge.github.io/not-cat-gifs",
   "cbm": "iamnapo.github.io/cbmjs",
+  "cdn.babylon": "babylonjs.github.io",
   "cebu": "javascriptcebu.netlify.com",
   "chaaat": "chaaat.github.io",
   "chain-able": "fluents.github.io/chain-able-site",
@@ -346,6 +348,7 @@ var cnames_active = {
   "cybernaut": "clebert.github.io/cybernaut",
   "cycle": "cyclejs.github.io",
   "cyclow": "pmros.github.io/cyclow", // noCF
+  "cyos.babylon": "cyos.netlify.com",
   "d4": "joelburget.github.io/d4",
   "daily.tmr": "ttttmr.github.io/daily", // noCF
   "damo": "damodharanj.github.io",
@@ -400,6 +403,7 @@ var cnames_active = {
   "dmitry": "dmitry-zaets.github.io",
   "dna": "dnajs.github.io/dna.js",
   "dns": "js-org.github.io/dns.js.org",
+  "doc.babylon": "babylonjsdoc.netlify.com",
   "docile": "teamtofu.github.io/docile",
   "docs.storybook": "storybook-docs.netlify.com", // noCF
   "docsify": "docsifyjs.github.io/docsify",
@@ -537,6 +541,7 @@ var cnames_active = {
   "formred": "zewish.github.io/formred",
   "fortnite": "ickerio.github.io/fortnite.js",
   "fortune": "fortunejs.github.io/fortune", // noCF? (don´t add this in a new PR)
+  "forum.babylon": "babylonjs.hosted-by-discourse.com",
   "foxford": "netology-group.github.io/foxford.github.io",
   "foxify": "foxifyjs.github.io/foxify",
   "foxman": "kaola-fed.github.io/foxman",
@@ -928,6 +933,7 @@ var cnames_active = {
   "mockjs-lite": "52cik.github.io/mockjs-lite", // noCF
   "mockyeah": "mockyeah.github.io/mockyeah",
   "modbot": "modbotjs.github.io",
+  "models.babylon": "babylonjs-models.netlify.com",
   "modofun": "modofunjs.github.io/modofun",
   "modulajs": "modulajs.netlify.com",
   "modv": "2xaa.github.io/modV",
@@ -1119,6 +1125,7 @@ var cnames_active = {
   "planner": "openplannerteam.github.io/planner.js",
   "platz": "fylipp.github.io/platz.js",
   "player": "player.netlify.com",
+  "playground.babylon": "babylonjs-playground.netlify.com",
   "plexr": "plexrbot.github.io",
   "pliers": "pliersjs.github.io", // noCF? (don´t add this in a new PR)
   "pnpm": "pnpm.github.io",
@@ -1143,6 +1150,7 @@ var cnames_active = {
   "published": "fiverr.github.io/published",
   "pretty-print-json": "center-key.github.io/pretty-print-json",
   "prettylog": "moosecoop.github.io/PrettyLog/",
+  "preview.babylon": "babylonjs-preview.netlify.com",
   "pristine": "sha256.github.io/Pristine", //noCF
   "prismarine": "prismarinejs.github.io",
   "producify": "jesobreira.github.io/producify",
@@ -1310,6 +1318,7 @@ var cnames_active = {
   "samplyr": "arze1.github.io/samplyr-site",
   "sanctuary": "sanctuary-js.github.io/sanctuary-site",
   "sandeepkhandewale": "learner1024.github.io",
+  "sandbox.babylon": "babylonjs-sandbox.netlify.com",
   "sandstone": "storehubnet.github.io/sandstone",
   "sanity-runner": "tophat.github.io/sanity-runner",
   "sanohin": "sanohin.github.io",
@@ -1389,6 +1398,7 @@ var cnames_active = {
   "spaas": "pakastin.github.io/spaas",
   "spacebot": "spacebot2.github.io",
   "spectragram": "adrianengine.github.io/jquery-spectragram", // noCF? (don´t add this in a new PR)
+  "spector.babylon": "spectorjs.netlify.com",
   "spike": "spike.netlify.com",
   "spin": "fgnass.github.io/spin.js", // noCF? (don´t add this in a new PR)
   "spirare": "waldenn.github.io/spirare", // noCF? (don´t add this in a new PR)
@@ -1636,6 +1646,7 @@ var cnames_active = {
   "wordywordy": "sverweij.github.io/wordywordy",
   "writebar": "alexander-shvets.github.io/writebar",
   "wthunting": "sawyerbx.github.io/wthunting",
+  "www.babylon": "babylonjs.netlify.com",
   "wyfe": "wangyuanstudio.github.io/WYFE", // noCF? (don´t add this in a new PR)
   "wynncraft": "frawolf.github.io/wynncraft.js",
   "xn--w4h": "zzyzxlab.github.io/tao.js",
